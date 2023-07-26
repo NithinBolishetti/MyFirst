@@ -1,6 +1,5 @@
 MyFist,File In GIT
  Added Extra text 
 Third Changes in File
-
 Here im changing the File Text Through Vs Code 
 Here Is Another Line
